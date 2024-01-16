@@ -30,7 +30,7 @@
     <li>Standardizing the features using scikit-learn's <code>StandardScaler</code></li>
   </ul>
 
-<img src="preprocessing2.jpg" style="width: 100px; height: 100px;" />
+<img src="preprocessing2.jpg" style="width: 300px; height: 300px;" />
 
 
   <h2>2. Exploratory Data Analysis (EDA)</h2>
@@ -51,10 +51,10 @@
     <li>Plotting comparison and evaluation results through scatter plots and residuals plots</li>
   </ul>
 
-<img src="EDA1.jpg" style="width: 100px; height: 100px;"/>
-<img src="EDA2.jpg" style="width: 100px; height: 100px;"/>
-<img src="EDA3.jpg" style="width: 100px; height: 100px;"/>
-<img src="EDA4.jpg" style="width: 100px; height: 100px;"/>
+<img src="EDA1.jpg" style="width: 300px; height: 300px;"/>
+<img src="EDA2.jpg" style="width: 300px; height: 300px;"/>
+<img src="EDA3.jpg" style="width: 300px; height: 300px;"/>
+<img src="EDA4.jpg" style="width: 300px; height: 300px;"/>
 
   <h2>3. GPA Prediction GUI</h2>
 
@@ -85,7 +85,7 @@
     <li><strong>Run GPA Prediction GUI:</strong> Execute <code>main.py</code> to use the GUI for GPA prediction.</li>
   </ol>
 
-  <img src="main.jpg" style="width: 100px; height: 100px;"/>
+  <img src="main.jpg" style="width: 300px; height: 300px;"/>
 
 </body>
 
