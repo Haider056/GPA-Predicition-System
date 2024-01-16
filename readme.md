@@ -51,10 +51,10 @@
     <li>Plotting comparison and evaluation results through scatter plots and residuals plots</li>
   </ul>
 
-<img src="EDA1.jpg" style="width: 300px; height: 300px;"/>
-<img src="EDA2.jpg" style="width: 300px; height: 300px;"/>
-<img src="EDA3.jpg" style="width: 300px; height: 300px;"/>
-<img src="EDA4.jpg" style="width: 300px; height: 300px;"/>
+<img src="EDA1.jpg" />
+<img src="eda2.jpg" />
+<img src="eda3.jpg" />
+<img src="eda4.jpg" />
 
   <h2>3. GPA Prediction GUI</h2>
 
