@@ -30,7 +30,11 @@
     <li>Standardizing the features using scikit-learn's <code>StandardScaler</code></li>
   </ul>
 
+
 <img src="Assets/preprocessing2.jpg"  />
+
+
+
 
 
   <h2>2. Exploratory Data Analysis (EDA)</h2>
@@ -51,10 +55,13 @@
     <li>Plotting comparison and evaluation results through scatter plots and residuals plots</li>
   </ul>
 
+
 <img src="Assets/EDA1.jpg" />
 <img src="Assets/eda2.jpg" />
 <img src="Assets/eda3.jpg" />
 <img src="Assets/eda4.jpg" />
+
+
 
   <h2>3. GPA Prediction GUI</h2>
 
@@ -83,9 +90,10 @@
     <li><strong>Explore Data:</strong> Run <code>EDA.py</code> to perform exploratory data analysis and gain insights.</li>
     <li><strong>Train Machine Learning Models:</strong> Train machine learning models using a separate script (not included in this snippet).</li>
     <li><strong>Run GPA Prediction GUI:</strong> Execute <code>main.py</code> to use the GUI for GPA prediction.</li>
-  </ol>
 
   <img src="Assets/main.jpg" />
+
+
 
 </body>
 
