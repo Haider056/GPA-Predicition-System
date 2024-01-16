@@ -30,7 +30,7 @@
     <li>Standardizing the features using scikit-learn's <code>StandardScaler</code></li>
   </ul>
 
-<img src="preprocessing2.jpg" style="width: 300px; height: 300px;" />
+<img src="preprocessing2.jpg"  />
 
 
   <h2>2. Exploratory Data Analysis (EDA)</h2>
