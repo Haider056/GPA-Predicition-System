@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>GPA Prediction Project</title>
+
 </head>
 
 <body>
