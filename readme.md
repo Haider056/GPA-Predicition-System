@@ -85,7 +85,7 @@
     <li><strong>Run GPA Prediction GUI:</strong> Execute <code>main.py</code> to use the GUI for GPA prediction.</li>
   </ol>
 
-  <img src="main.jpg" style="width: 300px; height: 300px;"/>
+  <img src="main.jpg" />
 
 </body>
 
